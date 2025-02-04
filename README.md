@@ -1,7 +1,7 @@
 # Nexitally奶昔机场怎么样
-Nexitally奶昔机场是一家成立于2017年的科学上网服务平台，因其创始人昵称“佩奇”而被部分用户称为“佩奇机场”。它的主站名为“Nexitally奶昔”，分站则是“AmyTelecom”。作为一家专注于高速、稳定连接的机场服务提供商，它支持Shadowsocks和Trojan协议，并且采用全节点专线技术，拥有多个国内入口节点，能够为用户提供流畅的网络体验。
+(Nexitally奶昔机场)[bit.ly/3NakH92]是一家成立于2017年的科学上网服务平台，因其创始人昵称“佩奇”而被部分用户称为“佩奇机场”。它的主站名为“Nexitally奶昔”，分站则是“AmyTelecom”。作为一家专注于高速、稳定连接的机场服务提供商，它支持Shadowsocks和Trojan协议，并且采用全节点专线技术，拥有多个国内入口节点，能够为用户提供流畅的网络体验。
 
-为了方便用户使用，Nexitally奶昔机场提供适配Windows、Mac和安卓系统的专属VPN客户端，操作简单，非常适合刚接触科学上网的新手用户。此外，平台不仅提供翻墙线路，还提供多种增值服务，包括Netflix、YouTube、Spotify、ChatGPT 3.5和Office 365等订阅服务，满足多样化的需求。
+为了方便用户使用，(Nexitally奶昔机场)[bit.ly/3NakH92]提供适配Windows、Mac和安卓系统的专属VPN客户端，操作简单，非常适合刚接触科学上网的新手用户。此外，平台不仅提供翻墙线路，还提供多种增值服务，包括Netflix、YouTube、Spotify、ChatGPT 3.5和Office 365等订阅服务，满足多样化的需求。
 
 在订阅管理方面，Nexitally兼容Clash、Shadowrocket和sing-box等主流工具订阅格式。不过，目前仍需要手动复制订阅链接导入客户端，暂未支持一键导入功能，这可能对部分用户来说略显不便。
 
@@ -11,7 +11,7 @@ Nexitally机场的节点覆盖范围非常广，分为常用地区和其他地�
 
 ## 奶昔机场官方网址：
 
-[奶昔机场网址](https://nexitally.com/?PartnerCode=59a5e513fa344e9196c1519c2968aa90)
+[奶昔机场网址](bit.ly/3NakH92)
 
 ### **常用地区**
 
